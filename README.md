@@ -62,7 +62,7 @@
   - 카카오 인증 코드를 Redirect 로 받은 후 백엔드 서버 쿼리스트링을 전달
   - 백엔드에서 토큰을 다시 받아 로컬스토리지에 저장
   
-## [구현 및 기술 논의 - Wiki](https://github.com/sunnyfterrain/checkout11AM/wiki)
+## [구현 및 기술 논의 - Wiki](https://github.com/sunnyfterrain/checkout11AM/wiki/checkout11AM)
   
 ## 📌Reference
 
