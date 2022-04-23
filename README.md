@@ -33,7 +33,7 @@
 
 ### 적용 기술
 
-- Front-End : React.js, React Router, Styled Components, 
+- Front-End : React.js, React Router, Styled Components, AWS
 - Back-End : Python, Django, AWS
 
 ### 소통 툴
@@ -63,6 +63,9 @@
   - 백엔드에서 토큰을 다시 받아 로컬스토리지에 저장
   
 ## [구현 및 기술 논의 - Wiki](https://github.com/sunnyfterrain/checkout11AM/wiki/checkout11AM)
+
+## 배포
+http://checkout11am.s3-website.ap-northeast-2.amazonaws.com/
   
 ## 📌Reference
 
