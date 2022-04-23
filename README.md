@@ -5,27 +5,33 @@
 ## 📌프로젝트 선정 이유
 - 전체적으로 군더더기 없는 깔끔하고 모던 한 UI
 - 소셜 로그인 API, 지도 API를 써 볼 수 있는 사이트
-- 필터와 검색 시스템이 많아, 연습을 해 볼 수 있고, 백엔드 모델링도 할 것이 많아
-- 
+- 필터와 검색 시스템이 많아, 연습을 해 볼 수 있고, 백엔드 모델링도 할 것이 많아 전체적인 학습을 하기에 좋음 
 
 
 ## 📌개발 기간 및 인원
 
-- 개발기간 : 2022/3/28 ~ 2022/4/7 (약 2주)
+- 개발기간 : 2022/4/11 ~ 2022/4/21 (약 2주)
 - 개발 인원 :
 ### 🧑‍💻 프론트엔드
 |남용현|문혜성|장종환|홍두현|
 |:----:|:----:|:----:|:----:|
-|<img width="200" height="200" alt="남용현" src="https://user-images.githubusercontent.com/95746551/162573146-2b6f6d85-c928-4fd0-ba62-94644140fa53.png">|<img width="200" height="200" alt="문혜성" src="https://user-images.githubusercontent.com/95746551/162573146-2b6f6d85-c928-4fd0-ba62-94644140fa53.png">|<img width="200" height="200" alt="장종환" src="https://user-images.githubusercontent.com/95746551/162573168-cf925827-c623-47f3-b02b-b40ac7e5fdc7.png">|<img width="200" height="200" alt="장종환" src="https://user-images.githubusercontent.com/95746551/162573168-cf925827-c623-47f3-b02b-b40ac7e5fdc7.png">|
+|<img width="200" height="200" alt="남용현" src="https://user-images.githubusercontent.com/95746551/162573146-2b6f6d85-c928-4fd0-ba62-94644140fa53.png">|<img width="200" height="200" alt="문혜성" src="https://user-images.githubusercontent.com/95746551/162573146-2b6f6d85-c928-4fd0-ba62-94644140fa53.png">|<img width="200" height="200" alt="장종환" src="https://user-images.githubusercontent.com/95746551/164890562-47dc77ed-780b-47bb-ba0e-cd593924d96c.png">|<img width="200" height="200" alt="홍두현" src="https://user-images.githubusercontent.com/95746551/164890556-07f3a9b9-f416-4efc-9756-789b6b00f30d.png">|
 |[Github](https://github.com/dan2dong)|[Github](https://github.com/sunnyfterrain)|[Github](https://github.com/nohnohnohnoh)|[Github](https://github.com/nohnohnohnoh)|
 
+
+<img width="254" alt="dohyeon" src="https://user-images.githubusercontent.com/95746551/164890556-07f3a9b9-f416-4efc-9756-789b6b00f30d.png">
+<img width="253" alt="jonghwhan" src="https://user-images.githubusercontent.com/95746551/164890562-47dc77ed-780b-47bb-ba0e-cd593924d96c.png">
+<img width="252" alt="jaehong" src="https://user-images.githubusercontent.com/95746551/164890563-56269fb5-7c68-4402-895d-dd80038c5e03.png">
+<img width="252" alt="hyesung" src="https://user-images.githubusercontent.com/95746551/164890565-7a9c4aee-d45b-462d-b5de-bcec7ccd858f.png">
+<img width="250" alt="daehyeon" src="https://user-images.githubusercontent.com/95746551/164890566-b34e9b20-ee73-4b0c-9cb7-0b0bb56726bc.png">
+
 ### 🧑‍💻 백엔드
-|류미류|한상안|
+|김대현|엄재홍|
 |:----:|:----:|
-|<img width="200" height="200" alt="류미류" src="https://user-images.githubusercontent.com/95746551/162573414-d623d83b-91c4-4713-b9b1-6ac5fd93d488.JPG">|<img width="200" height="200" alt="한상안" src="https://user-images.githubusercontent.com/95746551/162573392-6abdda80-b63d-4cd4-8efe-705a5d6d07d6.png">|
+|<img width="200" height="200" alt="김대현" src="https://user-images.githubusercontent.com/95746551/164890566-b34e9b20-ee73-4b0c-9cb7-0b0bb56726bc.png">|<img width="200" height="200" alt="엄재홍" src="https://user-images.githubusercontent.com/95746551/164890563-56269fb5-7c68-4402-895d-dd80038c5e03.png">|
 |[Github](https://github.com/mquat)|[Github](https://github.com/sangahnhan)|
 
-🔗[Fruitz Company : Backend](https://github.com/wecode-bootcamp-korea/31-1st-TheCreationOfWeb-backend)
+🔗[Fruitz Company : Backend](https://github.com/wecode-bootcamp-korea/31-2nd-checkout-11AM-backend)
 
 
 
