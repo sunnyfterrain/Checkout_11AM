@@ -11,6 +11,7 @@ const Nav = () => {
   const [searchModalOn, setSearchModalOn] = useState(false);
   const [localModalOn, setLocalModalOn] = useState(false);
   const navigate = useNavigate();
+
   const isLogin = localStorage.getItem(LOGIN_TOKEN);
 
   const logout = () => {
@@ -20,12 +21,10 @@ const Nav = () => {
 
   const handleSearchModal = () => {
     setSearchModalOn(!searchModalOn);
-    document.body.style.overflow = searchModalOn ? 'auto' : 'hidden';
   };
 
   const handleLocalModal = () => {
     setLocalModalOn(!localModalOn);
-    document.body.style.overflow = localModalOn ? 'auto' : 'hidden';
   };
 
   const goToPage = id => {
@@ -127,7 +126,7 @@ const AlignCenter = css`
 
 const NavLayout = styled.header`
   position: fixed;
-  z-index: 20;
+  z-index: 10000;
   width: 100%;
   height: 76px;
   background-color: #ffffff;

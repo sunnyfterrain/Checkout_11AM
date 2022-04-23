@@ -24,7 +24,9 @@ const CardList = ({
           기준 인원 {room_info[0].person}명 최대 인원
           {room_info[0].max_person}
         </CardStandard>
-        <CardPrice>{room_info.price}원</CardPrice>
+        <CardPrice>
+          {Math.floor(room_info[0].price).toLocaleString('ko-KR')}원
+        </CardPrice>
         <CardButton>예약하기</CardButton>
       </CardInfo>
       <CardImage src={thumbnail} alt={name} />
