@@ -1,11 +1,12 @@
-# Fruitz Company
-- 과일 음료 과일세트 등 과일 관련 판매 
-- 국내 커피 판매 사이트 [프릳츠컴퍼니](https://fritz.co.kr/) 를 모티브
+# Checkout 11AM 
+- 퇴실시간이 11시인 제주도의 고급 숙박 예약 사이트
+- 국내 숙박 예약 사이트 [스테이폴리오](https://www.stayfolio.com/) 를 모티브
 
 ## 📌프로젝트 선정 이유
-- 깔끔하고 심플한 UI
-- 시간이 많이 들어가는 디자인이 많지 않아 기능 구현에 집중 가능
-- 프론트엔드 개발을 위한 필수적인 기능이지만 구현하기에 크게 어렵지 않음
+- 전체적으로 군더더기 없는 깔끔하고 모던 한 UI
+- 소셜 로그인 API, 지도 API를 써 볼 수 있는 사이트
+- 필터와 검색 시스템이 많아, 연습을 해 볼 수 있고, 백엔드 모델링도 할 것이 많아
+- 
 
 
 ## 📌개발 기간 및 인원
@@ -13,10 +14,10 @@
 - 개발기간 : 2022/3/28 ~ 2022/4/7 (약 2주)
 - 개발 인원 :
 ### 🧑‍💻 프론트엔드
-|홍두현|남용현|노영완|
-|:----:|:----:|:----:|
-|<img width="200" height="200" alt="김동욱" src="https://user-images.githubusercontent.com/95746551/162573111-31bcb64a-e7c9-4ded-88a8-5e5eaa512bab.JPG">|<img width="200" height="200" alt="남용현" src="https://user-images.githubusercontent.com/95746551/162573146-2b6f6d85-c928-4fd0-ba62-94644140fa53.png">|<img width="200" height="200" alt="노영완" src="https://user-images.githubusercontent.com/95746551/162573168-cf925827-c623-47f3-b02b-b40ac7e5fdc7.png">|
-|[Github](https://github.com/dan2dong)|[Github](https://github.com/sunnyfterrain)|[Github](https://github.com/nohnohnohnoh)|
+|남용현|문혜성|장종환|홍두현|
+|:----:|:----:|:----:|:----:|
+|<img width="200" height="200" alt="남용현" src="https://user-images.githubusercontent.com/95746551/162573146-2b6f6d85-c928-4fd0-ba62-94644140fa53.png">|<img width="200" height="200" alt="문혜성" src="https://user-images.githubusercontent.com/95746551/162573146-2b6f6d85-c928-4fd0-ba62-94644140fa53.png">|<img width="200" height="200" alt="장종환" src="https://user-images.githubusercontent.com/95746551/162573168-cf925827-c623-47f3-b02b-b40ac7e5fdc7.png">|<img width="200" height="200" alt="장종환" src="https://user-images.githubusercontent.com/95746551/162573168-cf925827-c623-47f3-b02b-b40ac7e5fdc7.png">|
+|[Github](https://github.com/dan2dong)|[Github](https://github.com/sunnyfterrain)|[Github](https://github.com/nohnohnohnoh)|[Github](https://github.com/nohnohnohnoh)|
 
 ### 🧑‍💻 백엔드
 |류미류|한상안|
