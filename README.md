@@ -19,19 +19,13 @@
 |[Github](https://github.com/sunnyfterrain)|[Github](https://github.com/Moonhyeseong)|[Github](https://github.com/jonghwann)|[Github](https://github.com/HongDuHyeon)|
 
 
-<img width="254" alt="dohyeon" src="https://user-images.githubusercontent.com/95746551/164890556-07f3a9b9-f416-4efc-9756-789b6b00f30d.png">
-<img width="253" alt="jonghwhan" src="https://user-images.githubusercontent.com/95746551/164890562-47dc77ed-780b-47bb-ba0e-cd593924d96c.png">
-<img width="252" alt="jaehong" src="https://user-images.githubusercontent.com/95746551/164890563-56269fb5-7c68-4402-895d-dd80038c5e03.png">
-<img width="252" alt="hyesung" src="https://user-images.githubusercontent.com/95746551/164890565-7a9c4aee-d45b-462d-b5de-bcec7ccd858f.png">
-<img width="250" alt="daehyeon" src="https://user-images.githubusercontent.com/95746551/164890566-b34e9b20-ee73-4b0c-9cb7-0b0bb56726bc.png">
-
 ### 🧑‍💻 백엔드
 |김대현|엄재홍|
 |:----:|:----:|
 |<img width="200" height="200" alt="김대현" src="https://user-images.githubusercontent.com/95746551/164890566-b34e9b20-ee73-4b0c-9cb7-0b0bb56726bc.png">|<img width="200" height="200" alt="엄재홍" src="https://user-images.githubusercontent.com/95746551/164890563-56269fb5-7c68-4402-895d-dd80038c5e03.png">|
 |[Github](https://github.com/kdh10806)|[Github](https://github.com/youbeemuhwan)|
 
-🔗[Fruitz Company : Backend](https://github.com/wecode-bootcamp-korea/31-2nd-checkout-11AM-backend)
+🔗[Checkout 11AM : Backend](https://github.com/wecode-bootcamp-korea/31-2nd-checkout-11AM-backend)
 
 
 
@@ -55,7 +49,7 @@
 
 |메인페이지|회원관리|상품페이지|
 |:---:|:---:|:---:|
-|<img width="300" height="200" alt="회원가입" src="https://user-images.githubusercontent.com/95746551/162576974-3ff8621d-a1af-42ac-8655-0a1601669f4f.gif">|<img width="300" height="200" alt="회원관리" src="https://user-images.githubusercontent.com/95746551/162576969-6428e9f7-e756-4a7f-9e42-4cc082b38785.gif">|<img width="300" height="200" alt="회원가입" src="https://user-images.githubusercontent.com/95746551/162374253-77dfda2e-fbc5-4890-90c2-861b596dadf2.gif">
+|<img width="300" height="200" alt="회원가입" src="https://user-images.githubusercontent.com/95746551/162576974-3ff8621d-a1af-42ac-8655-0a1601669f4f.gif">|<img width="300" height="200" alt="회원관리" src="https://user-images.githubusercontent.com/95746551/162576969-6428e9f7-e756-4a7f-9e42-4cc082b38785.gif">|<img width="300" height="200" alt="회원가입" src="https://user-images.githubusercontent.com/95746551/162374253-77dfda2e-fbc5-4890-90c2-861b596dadf2.gif">|
 
 #### 🧑‍💻내가 맡은 기능
 - Navbar
