@@ -15,8 +15,8 @@
 ### 🧑‍💻 프론트엔드
 |남용현|문혜성|장종환|홍두현|
 |:----:|:----:|:----:|:----:|
-|<img width="200" height="200" alt="남용현" src="https://user-images.githubusercontent.com/95746551/162573146-2b6f6d85-c928-4fd0-ba62-94644140fa53.png">|<img width="200" height="200" alt="문혜성" src="https://user-images.githubusercontent.com/95746551/162573146-2b6f6d85-c928-4fd0-ba62-94644140fa53.png">|<img width="200" height="200" alt="장종환" src="https://user-images.githubusercontent.com/95746551/164890562-47dc77ed-780b-47bb-ba0e-cd593924d96c.png">|<img width="200" height="200" alt="홍두현" src="https://user-images.githubusercontent.com/95746551/164890556-07f3a9b9-f416-4efc-9756-789b6b00f30d.png">|
-|[Github](https://github.com/dan2dong)|[Github](https://github.com/sunnyfterrain)|[Github](https://github.com/nohnohnohnoh)|[Github](https://github.com/nohnohnohnoh)|
+|<img width="200" height="200" alt="남용현" src="https://user-images.githubusercontent.com/95746551/162573146-2b6f6d85-c928-4fd0-ba62-94644140fa53.png">|<img width="200" height="200" alt="문혜성" src="https://user-images.githubusercontent.com/95746551/164890565-7a9c4aee-d45b-462d-b5de-bcec7ccd858f.png">|<img width="200" height="200" alt="장종환" src="https://user-images.githubusercontent.com/95746551/164890562-47dc77ed-780b-47bb-ba0e-cd593924d96c.png">|<img width="200" height="200" alt="홍두현" src="https://user-images.githubusercontent.com/95746551/164890556-07f3a9b9-f416-4efc-9756-789b6b00f30d.png">|
+|[Github](https://github.com/sunnyfterrain)|[Github](https://github.com/Moonhyeseong)|[Github](https://github.com/jonghwann)|[Github](https://github.com/HongDuHyeon)|
 
 
 <img width="254" alt="dohyeon" src="https://user-images.githubusercontent.com/95746551/164890556-07f3a9b9-f416-4efc-9756-789b6b00f30d.png">
@@ -29,7 +29,7 @@
 |김대현|엄재홍|
 |:----:|:----:|
 |<img width="200" height="200" alt="김대현" src="https://user-images.githubusercontent.com/95746551/164890566-b34e9b20-ee73-4b0c-9cb7-0b0bb56726bc.png">|<img width="200" height="200" alt="엄재홍" src="https://user-images.githubusercontent.com/95746551/164890563-56269fb5-7c68-4402-895d-dd80038c5e03.png">|
-|[Github](https://github.com/mquat)|[Github](https://github.com/sangahnhan)|
+|[Github](https://github.com/kdh10806)|[Github](https://github.com/youbeemuhwan)|
 
 🔗[Fruitz Company : Backend](https://github.com/wecode-bootcamp-korea/31-2nd-checkout-11AM-backend)
 
@@ -48,9 +48,10 @@
   ​
 ### 구현 기능
  
-- 김동욱 : 회원가입로그인, 마이페이지
-- 남용현(PM) : NAV, ASIDE, 회원인가 시스템, 상품리스트, 상품상세, 장바구니
-- 노영완 : 메인페이지, 팀멤버소개페이지
+- 남용현 : NAV, ASIDE, 회원인가 시스템, 상품리스트, 상품상세, 장바구니
+- 문혜성 : 메인페이지, 팀멤버소개페이지
+- 장종환 :
+- 홍두현(PM) :
 
 |메인페이지|회원관리|상품페이지|
 |:---:|:---:|:---:|
