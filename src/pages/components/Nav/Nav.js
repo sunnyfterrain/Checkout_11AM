@@ -21,10 +21,12 @@ const Nav = () => {
 
   const handleSearchModal = () => {
     setSearchModalOn(!searchModalOn);
+    document.body.style.overflow = searchModalOn ? 'auto' : 'hidden';
   };
 
   const handleLocalModal = () => {
     setLocalModalOn(!localModalOn);
+    document.body.style.overflow = localModalOn ? 'auto' : 'hidden';
   };
 
   const goToPage = id => {
@@ -126,7 +128,7 @@ const AlignCenter = css`
 
 const NavLayout = styled.header`
   position: fixed;
-  z-index: 10000;
+  z-index: 20;
   width: 100%;
   height: 76px;
   background-color: #ffffff;

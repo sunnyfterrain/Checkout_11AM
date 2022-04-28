@@ -11,6 +11,7 @@ const DateModal = ({ handleModal }) => {
   const goToPage = () => {
     const firstDate = dates[0].format('YYYY-MM-DD');
     const lastDate = dates[1].format('YYYY-MM-DD');
+
     const dateQueryString = qs.stringify(
       { check_in: `${firstDate}`, check_out: `${lastDate}` },
       { indices: true }
