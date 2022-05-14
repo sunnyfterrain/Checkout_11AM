@@ -66,6 +66,10 @@
 
 ## 배포
 http://checkout11am.s3-website.ap-northeast-2.amazonaws.com/
+
+## 영상 시연
+
+https://youtu.be/c_VUmxRlPv8
   
 ## 📌Reference
 
