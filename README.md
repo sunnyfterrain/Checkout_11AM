@@ -13,7 +13,7 @@
 - 개발기간 : 2022/4/11 ~ 2022/4/21 (약 2주)
 - 개발 인원 :
 ### 🧑‍💻 프론트엔드
-|남용현|문혜성|장종환|홍두현|
+|**남용현**|문혜성|장종환|홍두현|
 |:----:|:----:|:----:|:----:|
 |<img width="200" height="200" alt="남용현" src="https://user-images.githubusercontent.com/95746551/162573146-2b6f6d85-c928-4fd0-ba62-94644140fa53.png">|<img width="200" height="200" alt="문혜성" src="https://user-images.githubusercontent.com/95746551/164890565-7a9c4aee-d45b-462d-b5de-bcec7ccd858f.png">|<img width="200" height="200" alt="장종환" src="https://user-images.githubusercontent.com/95746551/164890562-47dc77ed-780b-47bb-ba0e-cd593924d96c.png">|<img width="200" height="200" alt="홍두현" src="https://user-images.githubusercontent.com/95746551/164890556-07f3a9b9-f416-4efc-9756-789b6b00f30d.png">|
 |[Github](https://github.com/sunnyfterrain)|[Github](https://github.com/Moonhyeseong)|[Github](https://github.com/jonghwann)|[Github](https://github.com/HongDuHyeon)|
@@ -42,7 +42,7 @@
   ​
 ### 구현 기능
  
-- 남용현 : Nav, Footer, 로그인 페이지
+- **남용현 : Nav, Footer, 로그인 페이지**
 - 문혜성 : 상세페이지
 - 장종환 : 메인 페이지
 - 홍두현(PM) : 리스트 페이지
