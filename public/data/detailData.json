@@ -1,0 +1,56 @@
+{
+  "result": {
+    "id": 1,
+    "name": "삶의 한가운데",
+    "sub_name": "삶과 그 안에 속한 다양한 감정들",
+    "category": "독채",
+    "region": "제주시",
+    "residence_thumbnail": "https://user-images.githubusercontent.com/95746551/164149595-e7d1a98a-3518-4d51-b622-9c7650c2adb3.jpg",
+    "description": "한 그리고 써 노루, 봅니다. 보고, 하나에 마디씩 듯합니다. 동경과 별에도 멀리 하나에 슬퍼하는 별을 나는 까닭입니다. 많은 계절이 그리고 봅니다. 아직 불러 다하지 하나에 파란 잠, 그러나 봅니다. 까닭이요, 한 사람들의 소학교 써 추억과 자랑처럼 오면 듯합니다. 같이 쉬이 이름을 불러 하나에 그러나 봅니다. 이름과, 가난한 하나에 이름과 이름과, 아스라히 딴은 있습니다. 소녀들의 이웃 쓸쓸함과 별 버리었습니다. 나의 밤을 무성할 거외다. 내 노새, 별 너무나 비둘기, 까닭이요, 있습니다.",
+    "latitude": "33.49541000",
+    "longitude": "126.53634000",
+    "address": "제주도 제주시 이도이동 1067-2",
+    "email": "lifeisegg@naver.com",
+    "image": [
+      "https://user-images.githubusercontent.com/95746551/164149595-e7d1a98a-3518-4d51-b622-9c7650c2adb3.jpg",
+      "https://user-images.githubusercontent.com/73605822/164383979-e55e5a25-d830-4095-8e1e-9513423eed09.jpg",
+      "https://user-images.githubusercontent.com/73605822/164383993-484c6c55-b774-4973-8927-996e38c35c05.jpg",
+      "https://user-images.githubusercontent.com/73605822/164383995-9b90c2f8-f459-4b94-8985-a1e94f1cce17.jpg"
+    ],
+    "rooms": [
+      {
+        "id": 21,
+        "name": "삶의 한가운데",
+        "images": [
+          "https://user-images.githubusercontent.com/73605822/164384020-64d021d0-0965-46ce-8125-4fb9bcd3f9b0.jpg",
+          "https://user-images.githubusercontent.com/73605822/164384021-0a146efc-8fee-4b23-9b71-1ec803072aac.jpg",
+          "https://user-images.githubusercontent.com/73605822/164384024-c98b54da-05bf-4671-a159-fd7a6322df62.jpg"
+        ],
+        "price": "420000.00",
+        "person": 4,
+        "max_person": 6,
+        "bedspace": 4
+      }
+    ],
+    "places": [
+      {
+        "place_name": "이탈리아 국밥",
+        "description": "이탈리아인에게 국밥은 파스타",
+        "latitude": "33.49582600",
+        "longitude": "126.53168700"
+      },
+      {
+        "place_name": "수타벅스",
+        "description": "중국 현지에서 배운 수타면 전문점",
+        "latitude": "33.49756300",
+        "longitude": "126.54050000"
+      },
+      {
+        "place_name": "로이로사",
+        "description": "로켓단도 반한 커피",
+        "latitude": "33.49904000",
+        "longitude": "126.53524600"
+      }
+    ]
+  }
+}

@@ -1,112 +1,114 @@
 {
-  "id": 1,
-  "name": "여름의 집",
-  "sub_name": "여름 햇살 아래 구옥이 품은 빈티지",
-  "category": "게스트 하우스",
-  "region": "동쪽",
-  "description_title": "교동에 자리 잡은 여름 별장",
-  "description": "소학교 마리아 무엇인지 계십니다. 언덕 내린 그러나 파란 까닭입니다. 말하나의 언덕 너무나 가을로 불러 별 버리었습니다. 나는 가을 써 어머님, 시인의 버리었습니다. 흙으로 이름을 헤일 아스라히 이름과 계집애들의 있습니다. 같이 슬퍼하는 나의 언덕 언덕 가득 무덤 둘 있습니다. 이름과,언덕 비둘기, 이국 듯합니다. 별 추억과 사랑과 내 봅니다. 비둘기, 가난한이런 것은 사람들의 이네들은 버리었습니다.",
-  "thumbnail": "https://images.stayfolio.com/system/pictures/images/000/104/178/original/fd4fb3af7755ec8a898887cfbdf9eacd5f66df1a.jpg?1639124508",
-  "rooms": [
-    {
-      "id": 1,
-      "room_name": "여름 하나",
-      "price": 200000,
-      "person": 2,
-      "bedspace": 1,
-      "images": [
-        "https://images.stayfolio.com/system/pictures/images/000/104/092/original/f19fc17e248a5b5ed31aa38bfbb2cb4e0b660f2f.jpg?1639116511"
-      ]
-    },
-    {
-      "id": 2,
-      "room_name": "여름 둘",
-      "price": 200000,
-      "person": 2,
-      "bedspace": 1,
-      "images": [
-        "https://images.stayfolio.com/system/pictures/images/000/104/092/original/f19fc17e248a5b5ed31aa38bfbb2cb4e0b660f2f.jpg?1639116511"
-      ]
-    },
-    {
-      "id": 3,
-      "room_name": "여름 셋",
-      "price": 210000,
-      "person": 2,
-      "bedspace": 1,
-      "images": [
-        "https://images.stayfolio.com/system/pictures/images/000/104/092/original/f19fc17e248a5b5ed31aa38bfbb2cb4e0b660f2f.jpg?1639116511"
-      ]
-    },
-    {
-      "id": 4,
-      "room_name": "여름 넷",
-      "price": 240000,
-      "person": 2,
-      "bedspace": 1,
-      "images": [
-        "https://images.stayfolio.com/system/pictures/images/000/104/092/original/f19fc17e248a5b5ed31aa38bfbb2cb4e0b660f2f.jpg?1639116511"
-      ]
-    },
-    {
-      "id": 5,
-      "room_name": "여름 다섯",
-      "price": 230000,
-      "person": 2,
-      "bedspace": 1,
-      "images": [
-        "https://images.stayfolio.com/system/pictures/images/000/104/092/original/f19fc17e248a5b5ed31aa38bfbb2cb4e0b660f2f.jpg?1639116511"
-      ]
-    }
-  ],
-  "latitude": 33.450701,
-  "longitude": 126.570667,
-  "address": "제주특별자치도 구좌읍 샘물터길1번길 12 (교동)",
-  "phone_number": "010-9999-9999",
-  "email": "ch11@naver.com",
-  "image": [
-    "https://images.stayfolio.com/system/pictures/images/000/104/091/original/0a0e18a3df051b28d829e5b4b8d5edfd4352890f.jpg?1639116482",
-    "https://images.stayfolio.com/system/pictures/images/000/104/177/original/8bffc3dd0e10b91d76081372e151e06b1465747f.jpg?1639124479",
-    "https://images.stayfolio.com/system/pictures/images/000/104/112/original/7be9d69e5873178a103dbcca484f941217dfb6fe.jpg?1639117392",
-    "https://images.stayfolio.com/system/pictures/images/000/104/092/original/f19fc17e248a5b5ed31aa38bfbb2cb4e0b660f2f.jpg?1639116511",
-    "https://images.stayfolio.com/system/pictures/images/000/104/178/original/fd4fb3af7755ec8a898887cfbdf9eacd5f66df1a.jpg?1639124508"
-  ],
-  "places": [
-    {
-      "latitude": 33.452001,
-      "longitude": 126.570667,
-      "place_name": "라타케리아 타코의 집",
-      "description": "색다른 음식을 즐기고 싶다면 방문해도 좋을 멕시칸 음식점"
-    },
-    {
-      "latitude": 33.450201,
-      "longitude": 126.567567,
-      "place_name": "숲속바베큐",
-      "description": "조용한 숲속에서 물소리를 들으며 맛있는 참나무 장작구이를 먹을 수 있는 곳"
-    },
-    {
-      "latitude": 33.450301,
-      "longitude": 126.58367,
-      "place_name": "칸트의 마을",
-      "description": "산책로 등 다양한 공간이 마련되어 있으며 맛있는 빵과 커피를 즐길 수 있는 베이커리 카페"
-    },
-    {
-      "latitude": 33.452001,
-      "longitude": 126.570667,
-      "place_name": "라타케리아 타코의 집",
-      "description": "색다른 음식을 즐기고 싶다면 방문해도 좋을 멕시칸 음식점"
-    },
-    {
-      "latitude": 33.450201,
-      "longitude": 126.567567,
-      "place_name": "숲속바베큐",
-      "description": "조용한 숲속에서 물소리를 들으며 맛있는 참나무 장작구이를 먹을 수 있는 곳"
-    },
-    {
-      "latitude": 33.450301,
-      "longitude": 126.58367,
-      "place_name": "칸트의 마을",
-      "description": "산책로 등 다양한 공간이 마련되어 있으며 맛있는 빵과 커피를 즐길 수 있는 베이커리 카페"
-    }
-  ]
+  "result": {
+    "id": 1,
+    "name": "여름의 집",
+    "sub_name": "여름 햇살 아래 구옥이 품은 빈티지",
+    "category": "게스트 하우스",
+    "region": "동쪽",
+    "description_title": "교동에 자리 잡은 여름 별장",
+    "description": "소학교 마리아 무엇인지 계십니다. 언덕 내린 그러나 파란 까닭입니다. 말하나의 언덕 너무나 가을로 불러 별 버리었습니다. 나는 가을 써 어머님, 시인의 버리었습니다. 흙으로 이름을 헤일 아스라히 이름과 계집애들의 있습니다. 같이 슬퍼하는 나의 언덕 언덕 가득 무덤 둘 있습니다. 이름과,언덕 비둘기, 이국 듯합니다. 별 추억과 사랑과 내 봅니다. 비둘기, 가난한이런 것은 사람들의 이네들은 버리었습니다.",
+    "thumbnail": "https://images.stayfolio.com/system/pictures/images/000/104/178/original/fd4fb3af7755ec8a898887cfbdf9eacd5f66df1a.jpg?1639124508",
+    "rooms": [
+      {
+        "id": 1,
+        "room_name": "여름 하나",
+        "price": 200000,
+        "person": 2,
+        "bedspace": 1,
+        "images": [
+          "https://images.stayfolio.com/system/pictures/images/000/104/092/original/f19fc17e248a5b5ed31aa38bfbb2cb4e0b660f2f.jpg?1639116511"
+        ]
+      },
+      {
+        "id": 2,
+        "room_name": "여름 둘",
+        "price": 200000,
+        "person": 2,
+        "bedspace": 1,
+        "images": [
+          "https://images.stayfolio.com/system/pictures/images/000/104/092/original/f19fc17e248a5b5ed31aa38bfbb2cb4e0b660f2f.jpg?1639116511"
+        ]
+      },
+      {
+        "id": 3,
+        "room_name": "여름 셋",
+        "price": 210000,
+        "person": 2,
+        "bedspace": 1,
+        "images": [
+          "https://images.stayfolio.com/system/pictures/images/000/104/092/original/f19fc17e248a5b5ed31aa38bfbb2cb4e0b660f2f.jpg?1639116511"
+        ]
+      },
+      {
+        "id": 4,
+        "room_name": "여름 넷",
+        "price": 240000,
+        "person": 2,
+        "bedspace": 1,
+        "images": [
+          "https://images.stayfolio.com/system/pictures/images/000/104/092/original/f19fc17e248a5b5ed31aa38bfbb2cb4e0b660f2f.jpg?1639116511"
+        ]
+      },
+      {
+        "id": 5,
+        "room_name": "여름 다섯",
+        "price": 230000,
+        "person": 2,
+        "bedspace": 1,
+        "images": [
+          "https://images.stayfolio.com/system/pictures/images/000/104/092/original/f19fc17e248a5b5ed31aa38bfbb2cb4e0b660f2f.jpg?1639116511"
+        ]
+      }
+    ],
+    "latitude": 33.450701,
+    "longitude": 126.570667,
+    "address": "제주특별자치도 구좌읍 샘물터길1번길 12 (교동)",
+    "phone_number": "010-9999-9999",
+    "email": "ch11@naver.com",
+    "image": [
+      "https://images.stayfolio.com/system/pictures/images/000/104/091/original/0a0e18a3df051b28d829e5b4b8d5edfd4352890f.jpg?1639116482",
+      "https://images.stayfolio.com/system/pictures/images/000/104/177/original/8bffc3dd0e10b91d76081372e151e06b1465747f.jpg?1639124479",
+      "https://images.stayfolio.com/system/pictures/images/000/104/112/original/7be9d69e5873178a103dbcca484f941217dfb6fe.jpg?1639117392",
+      "https://images.stayfolio.com/system/pictures/images/000/104/092/original/f19fc17e248a5b5ed31aa38bfbb2cb4e0b660f2f.jpg?1639116511",
+      "https://images.stayfolio.com/system/pictures/images/000/104/178/original/fd4fb3af7755ec8a898887cfbdf9eacd5f66df1a.jpg?1639124508"
+    ],
+    "places": [
+      {
+        "latitude": 33.452001,
+        "longitude": 126.570667,
+        "place_name": "라타케리아 타코의 집",
+        "description": "색다른 음식을 즐기고 싶다면 방문해도 좋을 멕시칸 음식점"
+      },
+      {
+        "latitude": 33.450201,
+        "longitude": 126.567567,
+        "place_name": "숲속바베큐",
+        "description": "조용한 숲속에서 물소리를 들으며 맛있는 참나무 장작구이를 먹을 수 있는 곳"
+      },
+      {
+        "latitude": 33.450301,
+        "longitude": 126.58367,
+        "place_name": "칸트의 마을",
+        "description": "산책로 등 다양한 공간이 마련되어 있으며 맛있는 빵과 커피를 즐길 수 있는 베이커리 카페"
+      },
+      {
+        "latitude": 33.452001,
+        "longitude": 126.570667,
+        "place_name": "라타케리아 타코의 집",
+        "description": "색다른 음식을 즐기고 싶다면 방문해도 좋을 멕시칸 음식점"
+      },
+      {
+        "latitude": 33.450201,
+        "longitude": 126.567567,
+        "place_name": "숲속바베큐",
+        "description": "조용한 숲속에서 물소리를 들으며 맛있는 참나무 장작구이를 먹을 수 있는 곳"
+      },
+      {
+        "latitude": 33.450301,
+        "longitude": 126.58367,
+        "place_name": "칸트의 마을",
+        "description": "산책로 등 다양한 공간이 마련되어 있으며 맛있는 빵과 커피를 즐길 수 있는 베이커리 카페"
+      }
+    ]
+  }
 }

@@ -25,9 +25,11 @@ const Detail = () => {
   useEffect(() => {
     window.scrollTo(0, 0);
 
-    const url = `${API.LIST}/${params.id}`;
+    // const url = `${API.LIST}/${params.id}`;
+    const url = '/data/detailData.json';
     axios.get(url).then(response => {
       setResidenceData(response.data.result);
+      console.log(response.data.result);
     });
   }, [params.id]);
 

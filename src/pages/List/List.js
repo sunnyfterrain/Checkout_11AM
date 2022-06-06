@@ -53,7 +53,9 @@ const List = () => {
   }, [location.state]);
 
   useEffect(() => {
-    fetch(`${API.LIST}${location.search}`)
+    // fetch(`${API.LIST}${location.search}`)
+    // mockData
+    fetch('data/mockData.json')
       .then(res => res.json())
       .then(data => setCardList(data.residences_list));
   }, [location.search]);
@@ -169,7 +171,7 @@ const List = () => {
     setQueryArray(prev => ({ ...prev, region: value }));
     setSelectLocation(value);
   };
-
+  console.log(cardList);
   return (
     <ListWrap>
       <ListTitle>Find Check-In</ListTitle>

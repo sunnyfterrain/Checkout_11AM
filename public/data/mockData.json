@@ -1,56 +1,254 @@
-[
-  {
-    "id": 1,
-    "title": "프룩스 플럭스 호텔",
-    "category": "제주시-민박",
-    "region": "제주시",
-    "person": "2",
-    "price": "160,000",
-    "thumnail": "https://images.stayfolio.com/system/pictures/images/000/118/398/small/7f1a0efc10d9341ab34eada494e5ad03d8f927b6.jpg?1649226638"
-  },
-  {
-    "id": 2,
-    "title": "프룩스 플럭스 호텔",
-    "category": "게스트하우스",
-    "region": "서부",
-    "person": "2",
-    "price": "160,000",
-    "thumnail": "https://images.stayfolio.com/system/pictures/images/000/118/398/small/7f1a0efc10d9341ab34eada494e5ad03d8f927b6.jpg?1649226638"
-  },
-  {
-    "id": 3,
-    "title": "프룩스 플럭스 호텔",
-    "category": "민박",
-    "region": "서귀포시",
-    "person": "2",
-    "price": "160,000",
-    "thumnail": "https://images.stayfolio.com/system/pictures/images/000/118/398/small/7f1a0efc10d9341ab34eada494e5ad03d8f927b6.jpg?1649226638"
-  },
-  {
-    "id": 4,
-    "title": "프룩스 플럭스 호텔",
-    "category": "민박",
-    "region": "동부",
-    "person": "2",
-    "price": "160,000",
-    "thumnail": "https://images.stayfolio.com/system/pictures/images/000/118/398/small/7f1a0efc10d9341ab34eada494e5ad03d8f927b6.jpg?1649226638"
-  },
-  {
-    "id": 5,
-    "title": "프룩스 플럭스 호텔",
-    "category": "민박",
-    "region": "동부",
-    "person": "2",
-    "price": "160,000",
-    "thumnail": "https://images.stayfolio.com/system/pictures/images/000/118/398/small/7f1a0efc10d9341ab34eada494e5ad03d8f927b6.jpg?1649226638"
-  },
-  {
-    "id": 6,
-    "title": "프룩스 플럭스 호텔",
-    "category": "게스트하우스",
-    "region": "동부",
-    "person": "2",
-    "price": "160,000",
-    "thumnail": "https://images.stayfolio.com/system/pictures/images/000/118/398/small/7f1a0efc10d9341ab34eada494e5ad03d8f927b6.jpg?1649226638"
-  }
-]
+{
+  "residences_list": [
+    {
+      "id": 1,
+      "name": "삶의 한가운데",
+      "sub_name": "삶과 그 안에 속한 다양한 감정들",
+      "thumbnail": "https://user-images.githubusercontent.com/95746551/164149595-e7d1a98a-3518-4d51-b622-9c7650c2adb3.jpg",
+      "region": "제주시",
+      "category": "독채",
+      "image": [
+        "https://user-images.githubusercontent.com/95746551/164149595-e7d1a98a-3518-4d51-b622-9c7650c2adb3.jpg",
+        "https://user-images.githubusercontent.com/73605822/164383979-e55e5a25-d830-4095-8e1e-9513423eed09.jpg",
+        "https://user-images.githubusercontent.com/73605822/164383993-484c6c55-b774-4973-8927-996e38c35c05.jpg",
+        "https://user-images.githubusercontent.com/73605822/164383995-9b90c2f8-f459-4b94-8985-a1e94f1cce17.jpg"
+      ],
+      "room_info": [
+        {
+          "person": 4,
+          "max_person": 6,
+          "price": "420000.00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "당신의 하루의 끝에",
+      "sub_name": "하루 라는 단위가 모여 당신의 삶을 이루듯",
+      "thumbnail": "https://user-images.githubusercontent.com/95746551/164149601-08bb189a-dd12-4b12-9c8c-6aba6c9c729e.jpg",
+      "region": "제주시",
+      "category": "독채",
+      "image": [
+        "https://user-images.githubusercontent.com/95746551/164149601-08bb189a-dd12-4b12-9c8c-6aba6c9c729e.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384001-4f242f12-7aac-4d45-ae2c-fdc1baf0b0ba.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384005-fa89e83d-3da1-4e2b-8cf0-caca13ed8f58.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384012-ce7041df-548f-48ab-992c-491ff45f7356.jpg"
+      ],
+      "room_info": [
+        {
+          "person": 6,
+          "max_person": 6,
+          "price": "480000.00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "유칼립투스 상수",
+      "sub_name": "유칼립투스 좋아하는 홍상수",
+      "thumbnail": "https://user-images.githubusercontent.com/95746551/164149626-7aa56c3f-1089-408d-86f8-a0bb085b9d4e.jpg",
+      "region": "제주시",
+      "category": "독채",
+      "image": [
+        "https://user-images.githubusercontent.com/95746551/164149626-7aa56c3f-1089-408d-86f8-a0bb085b9d4e.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384013-4c69969f-a69e-4274-9bd7-4231798e3205.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384017-a45255ce-d69c-4bbe-ae77-57e7102c70c3.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384018-644d2669-5899-4ff9-b8d7-0c10fc79f761.jpg"
+      ],
+      "room_info": [
+        {
+          "person": 4,
+          "max_person": 6,
+          "price": "370000.00"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "사랑과 사람",
+      "sub_name": "결국에는 사람이고 결국에는 사랑입니다.",
+      "thumbnail": "https://user-images.githubusercontent.com/95746551/164149633-924d2d4e-24b1-4676-b903-a4888fed9587.jpg",
+      "region": "제주시",
+      "category": "독채",
+      "image": [
+        "https://user-images.githubusercontent.com/95746551/164149633-924d2d4e-24b1-4676-b903-a4888fed9587.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384020-64d021d0-0965-46ce-8125-4fb9bcd3f9b0.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384021-0a146efc-8fee-4b23-9b71-1ec803072aac.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384024-c98b54da-05bf-4671-a159-fd7a6322df62.jpg"
+      ],
+      "room_info": [
+        {
+          "person": 6,
+          "max_person": 6,
+          "price": "500000.00"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "각자의 별들",
+      "sub_name": "우리 각자의 별을 찾아가는 길.",
+      "thumbnail": "https://user-images.githubusercontent.com/95746551/164149637-619c46dd-b762-4b4b-8e49-33ec772df853.jpg",
+      "region": "제주시",
+      "category": "게스트하우스",
+      "image": [
+        "https://user-images.githubusercontent.com/95746551/164149637-619c46dd-b762-4b4b-8e49-33ec772df853.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384028-03cd1a31-b557-4e78-83cc-f32aaaa12fa7.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384030-aadb97c8-a350-4cf3-9ae4-481b9823ee68.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384032-72faccb3-3452-4113-b7b6-59ef6c7665cd.jpg"
+      ],
+      "room_info": [
+        {
+          "person": 2,
+          "max_person": 3,
+          "price": "50000.00"
+        },
+        {
+          "person": 2,
+          "max_person": 3,
+          "price": "50000.00"
+        },
+        {
+          "person": 4,
+          "max_person": 4,
+          "price": "80000.00"
+        },
+        {
+          "person": 4,
+          "max_person": 4,
+          "price": "100000.00"
+        },
+        {
+          "person": 2,
+          "max_person": 4,
+          "price": "60000.00"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "제주의 휴일",
+      "sub_name": "제주바다 앞 마당으로 가지고있는 숙소",
+      "thumbnail": "https://user-images.githubusercontent.com/95746551/164149641-fb2c36b1-ace3-465e-96c9-0f6f4ab75218.jpg",
+      "region": "서부",
+      "category": "게스트하우스",
+      "image": [
+        "https://user-images.githubusercontent.com/95746551/164149641-fb2c36b1-ace3-465e-96c9-0f6f4ab75218.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384036-865a685a-e252-4acf-ae36-8ff02da7e4bd.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384038-475cf8c5-8afa-4096-b718-4ea1e6c3f682.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384041-98d12e98-62b7-499b-bc68-63f6aa820a9b.jpg"
+      ],
+      "room_info": [
+        {
+          "person": 2,
+          "max_person": 4,
+          "price": "60000.00"
+        },
+        {
+          "person": 4,
+          "max_person": 4,
+          "price": "60000.00"
+        },
+        {
+          "person": 4,
+          "max_person": 4,
+          "price": "70000.00"
+        },
+        {
+          "person": 2,
+          "max_person": 4,
+          "price": "100000.00"
+        },
+        {
+          "person": 2,
+          "max_person": 4,
+          "price": "120000.00"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "애월",
+      "sub_name": "숲의 요정이 머물 것 같은 아늑한 공간",
+      "thumbnail": "https://user-images.githubusercontent.com/95746551/164149654-73155224-0a1f-4346-a6dd-18d64817a354.jpg",
+      "region": "서부",
+      "category": "독채",
+      "image": [
+        "https://user-images.githubusercontent.com/95746551/164149655-544771a0-cc26-4b2a-b1da-4b79a1b4a6fb.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384042-cff3a366-bd91-4820-bb7f-a2d8b23bc41e.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384048-a4b83f1d-03f9-43e2-8551-47ac602fbe31.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384051-eadc1648-e8a7-4727-a3ee-f6b23c19745f.jpg"
+      ],
+      "room_info": [
+        {
+          "person": 4,
+          "max_person": 6,
+          "price": "520000.00"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "고요히",
+      "sub_name": "에머랄드 바다가 바로 앞, 넓은 잔디마당",
+      "thumbnail": "https://user-images.githubusercontent.com/95746551/164149655-544771a0-cc26-4b2a-b1da-4b79a1b4a6fb.jpg",
+      "region": "서부",
+      "category": "독채",
+      "image": [
+        "https://user-images.githubusercontent.com/95746551/164149655-544771a0-cc26-4b2a-b1da-4b79a1b4a6fb.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384053-703c5bfe-9ce1-4da4-977a-0f1ac937780c.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384055-83e2cadd-60fe-4bac-8245-caae4d5e299c.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384057-10e2f6c5-1e9a-4635-949d-d59943dce470.jpg"
+      ],
+      "room_info": [
+        {
+          "person": 4,
+          "max_person": 6,
+          "price": "300000.00"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "오소록",
+      "sub_name": "제주 분위기를 오롯이 느낄 수 있게 오소",
+      "thumbnail": "https://user-images.githubusercontent.com/95746551/164149657-7c2aa5d2-a513-4c65-b4f1-d0f5c0612ac0.jpg",
+      "region": "서부",
+      "category": "독채",
+      "image": [
+        "https://user-images.githubusercontent.com/95746551/164149657-7c2aa5d2-a513-4c65-b4f1-d0f5c0612ac0.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384058-dfe5a0cf-4d24-4d6f-8436-f79f28c05fff.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384060-18a004af-87db-4178-9c8e-9994bcb77f26.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384062-8a0646a5-d7d3-4537-9f8f-a5168bd56122.jpg"
+      ],
+      "room_info": [
+        {
+          "person": 6,
+          "max_person": 6,
+          "price": "280000.00"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "스테이 어게인",
+      "sub_name": "다시 한번 멈춰서",
+      "thumbnail": "https://user-images.githubusercontent.com/95746551/164149661-2ca096cc-7074-4278-9166-eea3343ca719.jpg",
+      "region": "서부",
+      "category": "독채",
+      "image": [
+        "https://user-images.githubusercontent.com/95746551/164149661-2ca096cc-7074-4278-9166-eea3343ca719.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384068-e2b98b24-c3c1-4c86-9aaf-6ee9fa6f03e5.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384076-072b1633-15c3-4a92-b647-5575bd28a154.jpg",
+        "https://user-images.githubusercontent.com/73605822/164384078-11d177a5-d251-46cb-b6e2-045e015fc784.jpg"
+      ],
+      "room_info": [
+        {
+          "person": 6,
+          "max_person": 6,
+          "price": "340000.00"
+        }
+      ]
+    }
+  ]
+}
