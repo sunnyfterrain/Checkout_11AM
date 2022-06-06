@@ -8,7 +8,7 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 
 function PromotionSlide({ promotionList }) {
-  const { residences_list } = promotionList;
+  // const { residences_list } = promotionList;
   const navigate = useNavigate();
 
   const goToDetail = id => {
@@ -29,9 +29,20 @@ function PromotionSlide({ promotionList }) {
         modules={[EffectFade, Navigation, Pagination]}
         className="mySwiper"
       >
-        {residences_list?.map(
+        {promotionList?.map(
           (
-            { id, thumbnail, name, room_info, region, sub_Name, category },
+            {
+              id,
+              thumbnail,
+              name,
+              room_info,
+              region,
+              sub_Name,
+              price,
+              category,
+              person,
+              max_person,
+            },
             index
           ) => {
             return (
@@ -50,9 +61,12 @@ function PromotionSlide({ promotionList }) {
                         {region} • {category}
                       </Span>
                       <Paragraph>
-                        최소 {room_info[0].person}명 / 최대
+                        {/* 최소 {room_info[0].person}명 / 최대
                         {room_info[0].max_person}명
-                        <br />₩ {parseInt(room_info[0].price).toLocaleString()}
+                        <br />₩ {parseInt(room_info[0].price).toLocaleString()} */}
+                        최소 {person}명 / 최대
+                        {max_person}명
+                        <br />₩ {price}
                       </Paragraph>
                     </ContentSubBox>
                   </ContentBox>

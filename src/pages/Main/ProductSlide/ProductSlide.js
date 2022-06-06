@@ -7,7 +7,7 @@ import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 
 function ProductSlide({ productList }) {
-  const { residences_list } = productList;
+  // const { residences_list } = productList;
 
   const navigate = useNavigate();
 
@@ -31,8 +31,8 @@ function ProductSlide({ productList }) {
         modules={[Pagination, Navigation]}
         className="mySwiper"
       >
-        {residences_list?.map(
-          ({ id, name, region, thumbnail, room_info }, index) => {
+        {productList?.map(
+          ({ id, name, region, thumbnail, room_info, price }, index) => {
             return (
               <SwiperSlide key={index} id={id}>
                 <ProductBox>
@@ -47,7 +47,8 @@ function ProductSlide({ productList }) {
                     <Span>{region}</Span>
                     <Span>
                       &nbsp; • &nbsp;₩
-                      {parseInt(room_info[0].price).toLocaleString()}
+                      {/* {parseInt(room_info[0].price).toLocaleString()} */}
+                      {price}
                     </Span>
                   </ProductDetailBox>
                   <Paragraph

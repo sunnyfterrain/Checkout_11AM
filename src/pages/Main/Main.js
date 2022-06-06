@@ -12,20 +12,25 @@ const Main = () => {
   const [promotionData, setPromotionData] = useState([]);
 
   useEffect(() => {
-    fetch(`${MAIN}residences?offset=0&limit=6`)
+    // fetch(`${MAIN}residences?offset=0&limit=6`)
+    fetch('data/mainData.json')
       .then(res => res.json())
       .then(data => {
-        setProductData(data);
+        setProductData(data.productList);
+        setPromotionData(data.promotionList);
       });
   }, []);
+  console.log(productData, promotionData);
 
-  useEffect(() => {
-    fetch(`${MAIN}residences?offset=6&limit=4`)
-      .then(res => res.json())
-      .then(data => {
-        setPromotionData(data);
-      });
-  }, []);
+  // mockData 를 위한 임시 주석
+  // useEffect(() => {
+
+  //   fetch(`${MAIN}residences?offset=6&limit=4`)
+  //     .then(res => res.json())
+  //     .then(data => {
+  //       setPromotionData(data);
+  //     });
+  // }, []);
 
   return (
     <div>

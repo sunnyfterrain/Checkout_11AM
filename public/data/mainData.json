@@ -6,7 +6,9 @@
       "name": "프룩스 플럭스 호텔",
       "region": "경상/경주시",
       "price": "160,000",
-      "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "person": 2,
+      "max_person": 5,
+      "thumbnail": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
     },
     {
       "id": 2,
@@ -14,7 +16,9 @@
       "name": "여름의 집",
       "region": "강원/강릉시",
       "price": "280,000",
-      "img": "https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "person": 2,
+      "max_person": 5,
+      "thumbnail": "https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
     },
     {
       "id": 3,
@@ -22,7 +26,9 @@
       "name": "달리야드",
       "region": "제주/서귀포시",
       "price": "650,000",
-      "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "person": 2,
+      "max_person": 5,
+      "thumbnail": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
     },
     {
       "id": 4,
@@ -30,7 +36,7 @@
       "name": "산온",
       "region": "경상/경주시",
       "price": "400,000",
-      "img": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "thumbnail": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
     },
     {
       "id": 5,
@@ -38,7 +44,9 @@
       "name": "이제",
       "region": "경기/양평군",
       "price": "450,000",
-      "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "person": 2,
+      "max_person": 5,
+      "thumbnail": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
     },
     {
       "id": 6,
@@ -46,7 +54,9 @@
       "name": "스테이한량",
       "region": "경상/남해군",
       "price": "360,000",
-      "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "person": 2,
+      "max_person": 5,
+      "thumbnail": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
     }
   ],
   "promotionList": [
@@ -59,7 +69,7 @@
       "category": "민박",
       "personnel": "최소 2명 / 최대 4명",
       "price": "320,000",
-      "img": "https://images.pexels.com/photos/775219/pexels-photo-775219.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "thumbnail": "https://images.pexels.com/photos/775219/pexels-photo-775219.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
     },
     {
       "id": 2,
@@ -70,7 +80,7 @@
       "category": "민박",
       "personnel": "최소 2명 / 최대 4명",
       "price": "280,000",
-      "img": "https://images.pexels.com/photos/3761182/pexels-photo-3761182.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "thumbnail": "https://images.pexels.com/photos/3761182/pexels-photo-3761182.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
     },
     {
       "id": 3,
@@ -81,7 +91,7 @@
       "category": "한옥",
       "personnel": "최소 2명 / 최대 6명",
       "price": "250,000",
-      "img": "https://images.pexels.com/photos/775219/pexels-photo-775219.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "thumbnail": "https://images.pexels.com/photos/775219/pexels-photo-775219.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
     },
     {
       "id": 4,
@@ -92,7 +102,7 @@
       "category": "한옥",
       "personnel": "최소 2명 / 최대 4명",
       "price": "320,000",
-      "img": "https://images.pexels.com/photos/3761182/pexels-photo-3761182.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      "thumbnail": "https://images.pexels.com/photos/3761182/pexels-photo-3761182.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
     }
   ]
 }
