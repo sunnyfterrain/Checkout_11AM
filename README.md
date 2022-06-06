@@ -68,7 +68,15 @@
 
 ## 배포
 
+### AWS (현재는 백엔드API가 연결이 안되는 관계로 Mock Data 로 변경하였습니다.)
+
 http://checkout11am.s3-website.ap-northeast-2.amazonaws.com/
+
+### 로컬 실행
+
+git clone
+npm install
+npm start
 
 ## 영상 시연
 
