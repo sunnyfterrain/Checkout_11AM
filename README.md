@@ -74,9 +74,9 @@ http://checkout11am.s3-website.ap-northeast-2.amazonaws.com/
 
 ### 로컬 실행
 
-git clone
-npm install
-npm start
+- git clone
+- npm install
+- npm start
 
 ## 영상 시연
 
