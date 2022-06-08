@@ -20,7 +20,6 @@ const Main = () => {
         setPromotionData(data.promotionList);
       });
   }, []);
-  console.log(productData, promotionData);
 
   // mockData 를 위한 임시 주석
   // useEffect(() => {
