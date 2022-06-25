@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
-import { CircularProgress } from '@mui/material';
 import axios from 'axios';
 import styled from 'styled-components';
 import { API } from '../../../config';
@@ -33,8 +32,10 @@ const KakaoLogin = () => {
 
   return (
     <KakaoLoginLayout>
-      <CircularProgress color="grey" />
-      <Loading>로그인중입니다</Loading>
+      <SpinnerContainer>
+        <Spinner />
+        <Loading>로그인중입니다</Loading>
+      </SpinnerContainer>
     </KakaoLoginLayout>
   );
 };
@@ -42,6 +43,28 @@ const KakaoLogin = () => {
 export default KakaoLogin;
 
 const USER_TOKEN = 'checkout_user';
+
+const SpinnerContainer = styled.div`
+  ${props => props.theme.flex.flexLayout()}
+  height: 100vh;
+`;
+
+const Spinner = styled.div`
+  width: 60px;
+  height: 60px;
+  border: 5px solid lightgray;
+  border-radius: 50%;
+  border-top: 5px solid white;
+  animation: spin 1s linear infinite;
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+`;
 
 const KakaoLoginLayout = styled.div`
   position: absolute;

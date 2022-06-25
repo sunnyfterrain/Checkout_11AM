@@ -4,7 +4,7 @@ const theme = {
   background: '#FFFEFC',
   fontMd: 500,
   fontBd: 700,
-  flexLayout: (direction, align, justify) => css`
+  flexLayout: (direction = 'row', align = 'center', justify = 'center') => css`
     display: flex;
     flex-direction: ${direction};
     justify-content: ${justify};
