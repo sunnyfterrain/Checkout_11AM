@@ -75,6 +75,8 @@
 
 ## [구현 및 기술 논의 - Wiki](https://github.com/sunnyfterrain/checkout11AM/wiki/checkout11AM)
 
+## [프로젝트 회고 링크](https://sunnyfterrain.github.io/life/life-2nd.html)
+
 ## 배포
 
 ### AWS (현재는 백엔드API가 연결이 안되는 관계로 Mock Data 로 변경하였습니다.)
