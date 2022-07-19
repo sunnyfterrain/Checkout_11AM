@@ -1,9 +1,9 @@
 지속적인 리팩토링 중입니다.
 
-- 리팩토링 우선 적용 사항
-  - OAuth2.0 로그인 웹에서 토큰 받는걸로 수정 (백엔드 API 부재로 인해)
-  - 타입스크립트 적용
-  - 기타 자잘한 버그 수정
+- 리팩토링 진행 상황
+  - 대기 : OAuth2.0 로그인 웹에서 토큰 받는걸로 수정 (백엔드 API 부재로 인해)
+  - 대기 : 타입스크립트 적용
+  - 대기 : 기타 자잘한 버그 수정
 
 ---
 
@@ -65,15 +65,15 @@
 #### 🧑‍💻내가 맡은 기능
 
 - Navbar
-  - 상수데이터를 이용 Nav 메뉴를 구성
-  - Nav 내에 위치한 필터, 검색, 달력 예약 기능 구현
-  - 해당 검색, 필터, 달력 값을 리스트 페이지로 쿼리스트링 형태로 전달
+  - Nav 내 지역 검색, 달력 기능 구현, 리스트 페이지로 쿼리스트링 전달
+
 - Login
-  - 카카오 로그인 API를 이용 소셜 로그인 구현
+  - 카카오 OAuth2.0 API를 이용 소셜 로그인 구현
   - 카카오 인증 코드를 Redirect 로 받은 후 백엔드 서버 쿼리스트링을 전달
   - 백엔드에서 토큰을 다시 받아 로컬스토리지에 저장
 
-## [구현 및 기술 논의 - Wiki](https://github.com/sunnyfterrain/checkout11AM/wiki/checkout11AM)
+<!-- ## [구현 및 기술 논의 - Wiki](https://github.com/sunnyfterrain/checkout11AM/wiki/checkout11AM) -->
+<!-- https://documenter.getpostman.com/view/20006378/Uyr8nJAj 11am-->
 
 ## [프로젝트 회고 링크](https://sunnyfterrain.github.io/life/life-2nd.html)
 
