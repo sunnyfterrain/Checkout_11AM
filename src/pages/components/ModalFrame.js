@@ -1,8 +1,14 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import styled from 'styled-components';
 import ModalPortal from './ModalPortal';
 
 const ModalFrame = ({ handleModal, children }) => {
+  useEffect(() => {
+    document.body.style.overflow = 'hidden';
+    return () => {
+      document.body.style.overflow = 'unset';
+    };
+  }, []);
   return (
     <ModalPortal>
       <Container>
@@ -32,6 +38,7 @@ const Container = styled.div`
 
 const Background = styled.div`
   position: fixed;
+  z-index: 15;
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.6);
@@ -49,6 +56,7 @@ const Background = styled.div`
 
 const ModalBlock = styled.div`
   position: fixed;
+  z-index: 20;
   top: 50%;
   transform: translateY(-50%);
   border-radius: 10px;
