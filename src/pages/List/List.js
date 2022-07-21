@@ -171,7 +171,7 @@ const List = () => {
     setQueryArray(prev => ({ ...prev, region: value }));
     setSelectLocation(value);
   };
-  console.log(cardList);
+
   return (
     <ListWrap>
       <ListTitle>Find Check-In</ListTitle>

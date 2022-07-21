@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import styled from 'styled-components';
 import qs from 'qs';
@@ -12,6 +12,7 @@ const SearchModal = ({ handleModal }) => {
   });
 
   const navigate = useNavigate();
+
   const handleActive = (cityName, idx) => {
     setIsActive(idx);
     setValue(prevState => {

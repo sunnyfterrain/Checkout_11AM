@@ -1,4 +1,3 @@
-import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { EffectFade, Navigation, Pagination } from 'swiper';
@@ -8,7 +7,6 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 
 function PromotionSlide({ promotionList }) {
-  // const { residences_list } = promotionList;
   const navigate = useNavigate();
 
   const goToDetail = id => {
@@ -35,7 +33,6 @@ function PromotionSlide({ promotionList }) {
               id,
               thumbnail,
               name,
-              room_info,
               region,
               sub_Name,
               price,

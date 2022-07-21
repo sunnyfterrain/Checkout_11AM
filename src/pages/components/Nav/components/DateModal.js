@@ -1,7 +1,8 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import styled from 'styled-components';
 import { Calendar } from 'react-multi-date-picker';
 import { useNavigate } from 'react-router-dom';
+
 import qs from 'qs';
 import ModalFrame from '../../ModalFrame';
 
